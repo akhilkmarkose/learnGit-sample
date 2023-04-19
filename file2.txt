@@ -1,1 +1,3 @@
-This is an edit made to the file 2. this will appear only in the branch "feature"
+This is an edit made to the file 2. this will appear only in the branch "feature".
+
+We are trying a different method of merging.
