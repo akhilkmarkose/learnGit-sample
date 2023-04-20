@@ -1,1 +1,3 @@
 Hello everyone, this is Akhil K Markose. Welcome to Git Crash Course.
+
+I am adding a new line to this file in order to demonstrate the new merging process.
