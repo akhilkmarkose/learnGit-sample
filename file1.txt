@@ -1,3 +1,5 @@
 Hello everyone, this is Akhil K Markose. Welcome to Git Crash Course.
 
 I am adding a new line to this file in order to demonstrate the new merging process.
+
+I am making an edit to this file in order to create a conflict, standing at the "master branch".
