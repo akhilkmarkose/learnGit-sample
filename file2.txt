@@ -1,3 +1,10 @@
 This is an edit made to the file 2. this will appear only in the branch "feature".
 
 We are trying a different method of merging.
+
+This is an edit made from a cloned repository.
+as
+asd
+asdf
+asdfg
+asdfgh
